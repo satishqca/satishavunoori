@@ -2,6 +2,10 @@
 
 Senior Software Testing Engineer
 
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,git,github,gitlab,jenkins,postgres,vscode,docker,azure)](https://skillicons.dev)
+
 ## About Me
 
 - 8+ Years of Experience
