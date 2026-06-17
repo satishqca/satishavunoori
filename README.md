@@ -47,7 +47,7 @@ API Testing + SQL Testing
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishqcaE&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishqca&show_icons=true&theme=default)
 
 ## Reach Me
 
